@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / Install
+build/
+dist/
+*.egg-info/
+.eggs/
+invoice_reconciliation_api.egg-info/
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Database
+*.db
+*.sqlite3
+test.db
+
+# IDE
+.idea/
+.vscode/
